@@ -1,0 +1,7 @@
+{
+  "name": "Training backend app - development",
+  "mail": {
+    "host": "dev-mail-server",
+    "password": "app_password"
+  }
+}
